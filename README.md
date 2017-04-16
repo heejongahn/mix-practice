@@ -1,6 +1,6 @@
 # MixPractice
 
-Practice basic usage of mix, following [the official guide](mix-otp).
+Practice basic usage of mix, following [the official guide][mix-otp].
 
 ## Installation
 
